@@ -27,6 +27,6 @@ if errorlevel 1 (
 
 REM Run the application
 echo Starting WhatsApp Blur application...
-python whatsapp_blur.py
+python whatsapp_blur_final.py
 
 pause
